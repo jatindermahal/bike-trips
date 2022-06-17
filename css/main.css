@@ -1,0 +1,7 @@
+#trips-table tr:hover { cursor:pointer; }
+
+#leaflet { height: 400px; }
+
+.Subscriber { background-color: rgba(173, 216, 230, 0.455); color: black; }
+
+.Customer { background-color: lightgray ; color: black; }
