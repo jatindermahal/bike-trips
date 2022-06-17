@@ -1,4 +1,7 @@
-# About this project
+### About this project
+
+# Deployed
+This webpage has been hosted at https://bike-trips.vercel.app/ Please follow the link to see it working.
 
 1. This project shows the trips retrieved from an API.
 2. Different colors make Subscribers and Customers look separate from each other
